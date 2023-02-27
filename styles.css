@@ -1,0 +1,90 @@
+*{
+    margin: 0 ;
+    padding: 0 ;
+}
+
+.intro{
+    text-align: center;
+    border: 1px solid ;
+    border-radius: 25%;
+    background-color: #7B8FA1;
+    color: #fff;
+    width: 25%;
+    padding: 50px 50px;
+    margin: 40px 33.33%;
+    transition: 1s;
+}
+
+.interests{
+    text-align: center;
+    border: 1px solid ;
+    border-radius: 25%;
+    background-color: #7B8FA1;
+    color: #fff;
+    width: 25%;
+    padding: 50px 50px;
+    margin: 40px 33.33%;
+    transition: 1s;
+}
+
+.courses{
+    text-align: center;
+    border: 1px solid ;
+    border-radius: 25%;
+    background-color: #7B8FA1;
+    color: #fff;
+    width: 25%;
+    padding: 50px 50px;
+    margin: 40px 33.33%;
+    transition: 1s;
+}
+
+.interests h3{
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+.courses h3{
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+
+.interests ul li {
+    list-style: none;
+}
+.courses ul li{
+    list-style: none;
+}
+
+.intro-paragraph{
+    text-align: center;
+    border: 1px solid ;
+    border-radius: 25%;
+    background-color: #7B8FA1;
+    color: #fff;
+    width: 25%;
+    padding: 50px 50px;
+    margin: 40px 33.33%;
+    transition: 1s;
+    font-size: 20px;
+}
+
+.intro:hover{
+    scale: 1.1;
+    background-color: #E1EEDD;
+    color: #000;
+}
+.interests:hover{
+    scale: 1.1;
+    background-color: #E1EEDD;
+    color: #000;
+}
+.courses:hover{
+    scale: 1.1;
+    background-color: #E1EEDD;
+    color: #000;
+}
+.intro-paragraph:hover{
+    scale: 1.1;
+    background-color: #E1EEDD;
+    color: #000;
+}
